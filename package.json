@@ -1,0 +1,37 @@
+{
+  "_args": [
+    [
+      "app_config@https://github.com/th12legion/npm_app_config/archive/v2.0.0.tar.gz",
+      "/sites/odds.stagbet.site"
+    ]
+  ],
+  "_from": "app_config@https://github.com/th12legion/npm_app_config/archive/v2.0.0.tar.gz",
+  "_id": "app_config@https://github.com/th12legion/npm_app_config/archive/v2.0.0.tar.gz",
+  "_inBundle": false,
+  "_integrity": "sha512-Aa6Duk8vS3m2IyHoHJyNWK+uYgexEwPVdu1rywuJe5IhvGx8dQSeMaaM7pE0dv6AGfR7WaKGAS43o0UE2riV+w==",
+  "_location": "/app_config",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "app_config@https://github.com/th12legion/npm_app_config/archive/v2.0.0.tar.gz",
+    "name": "app_config",
+    "escapedName": "app_config",
+    "rawSpec": "https://github.com/th12legion/npm_app_config/archive/v2.0.0.tar.gz",
+    "saveSpec": "https://github.com/th12legion/npm_app_config/archive/v2.0.0.tar.gz",
+    "fetchSpec": "https://github.com/th12legion/npm_app_config/archive/v2.0.0.tar.gz"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": false,
+  "_spec": "https://github.com/th12legion/npm_app_config/archive/v2.0.0.tar.gz",
+  "_where": "/sites/odds.stagbet.site",
+  "author": "",
+  "dependencies": {},
+  "description": "Config for node app",
+  "keywords": [],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "app_config",
+  "version": "1.0.0"
+}
